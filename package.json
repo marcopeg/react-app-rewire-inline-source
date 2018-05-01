@@ -1,0 +1,31 @@
+{
+  "name": "react-app-rewire-inline-source",
+  "version": "1.0.0",
+  "description": "Enable source code inlining capabilities in a react-app-rewired applictaion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcopeg/react-app-rewire-inline-source.git"
+  },
+  "keywords": [
+    "react",
+    "react-app-rewired",
+    "inline",
+    "source",
+    "inline-styles",
+    "inline-js",
+    "inline-css"
+  ],
+  "author": "Marco Pegoraro <marco.pegoraro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcopeg/react-app-rewire-inline-source/issues"
+  },
+  "homepage": "https://github.com/marcopeg/react-app-rewire-inline-source#readme",
+  "dependencies": {
+    "html-webpack-inline-source-plugin": "0.0.10"
+  }
+}
