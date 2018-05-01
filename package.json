@@ -1,7 +1,7 @@
 {
-  "name": "react-app-rewire-inline-source",
+  "name": "react-app-rewire-inline-sourcep",
   "version": "1.0.0",
-  "description": "Enable source code inlining capabilities in a react-app-rewired applictaion",
+  "description": "Enable source code inlining capabilities in a react-app-rewired application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
