@@ -1,6 +1,6 @@
 {
   "name": "react-app-rewire-inline-source",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Enable source code inlining capabilities in a react-app-rewired application",
   "main": "index.js",
   "scripts": {
